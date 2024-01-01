@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "537433061408",
+    "project_id": "ptech-2e641",
+    "storage_bucket": "ptech-2e641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537433061408:android:11a687d17533c5a36ea445",
+        "android_client_info": {
+          "package_name": "com.mobile.ptecpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537433061408-h5qejtk97ps0qo9ga61h2d7cb54tibrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.ptecpos",
+            "certificate_hash": "dec3354cde9c278141976bfc68995789746134ca"
+          }
+        },
+        {
+          "client_id": "537433061408-hofrotp0badd16ljbel9iun4lccjqqng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoZHmoSoxGzisvngZ42wKP8iinBA8bBbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537433061408-hofrotp0badd16ljbel9iun4lccjqqng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

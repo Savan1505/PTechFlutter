@@ -1,0 +1,35 @@
+class AppRouteConstants {
+  static const String splash = "/splash";
+  static const String login = "/login";
+  static const String store = "/store";
+  static const String root = "/root";
+  static const String storeItemScreen = "/store-item-page";
+  static const String addItemScreen = "/add-item-page";
+  static const String storeHomeScreen = "/store-home-page";
+  static const String employeeScreen = "/employee-page";
+  static const String employeeListScreen = "/employee-list-page";
+  static const String addItemDepartment = "/add-item-department";
+  static const String addTax = "/add-tax-page";
+  static const String addItemCategory = "/add-item-category";
+  static const String addSubItemCategory = "/add-item-sub-category";
+  static const String addItemRegionsScreen = "/add-item-regions-page";
+  static const String addAbvScreen = "/add-abv-page";
+  static const String addFlavourScreen = "/add-flavour-page";
+  static const String addFamilyScreen = "/add-family-page";
+  static const String addVintageScreen = "/add-vintage-page";
+  static const String addItemTaxSlabScreen = "/add-item-tax-slab-page";
+  static const String itemTriggerScreen = "/item-trigger-page";
+  static const String itemPackageScreen = "/item-package-page";
+  static const String itemRootPackageScreen = "/item-add-package-page";
+  static const String itemPackUpcScreen = "/item-pack-upc-screen";
+  static const String itemPackagePriceLevelScreen = "/item-package-price-level-page";
+  static const String itemPackagePriceScreen = "/item-package-price-page";
+  static const String tprScreen = "/tpr-page";
+  static const String addTprScreen = "/add-tpr-page";
+  static const String quickAccessScreen = "/quick-access-page";
+  static const String addQuickAccessScreen = "/add-quick-access-page";
+  static const String searchQuickAccessScreen = "/search-quick-access-page";
+  static const String quickItemListScreen = "/quick-item-list-page";
+  static const String standardDiscountScreen = "/standard-discount-page";
+  static const String priceLevelScreen = "/price-level-page";
+}
